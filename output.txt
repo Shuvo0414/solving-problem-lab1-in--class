@@ -1,1 +1,7 @@
-50 40 30 20 10 
+Before swapping:
+a = 66
+b = 99
+
+After swapping:
+a = 99
+b = 66
