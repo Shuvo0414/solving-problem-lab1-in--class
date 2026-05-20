@@ -9,6 +9,7 @@ int main()
     int result = maxFunction();
 
     printf("Maximum value is: %d\n", result);
+    //output : Maximum value is: 89
 
     return 0;
 }
